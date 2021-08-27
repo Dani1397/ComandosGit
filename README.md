@@ -1,4 +1,3 @@
-# ComandosGit
-Clase Aprendices 
-
-comandos Git 
+. Aprendices 
+.. Curso 
+... Fundamentos de programacion 
